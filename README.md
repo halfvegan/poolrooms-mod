@@ -8,6 +8,11 @@ find the EXIT, and whatever you do... don't run.
 It's horror-flavoured but gentle. There are no jump scares, no screaming, no gore and no dark rooms. Nothing in the
 Poolrooms can hurt you except ordinary drowning, and the Snorkel Mask stops that.
 
+## Download
+**[poolrooms-1.0.0.jar](https://github.com/halfvegan/poolrooms-mod/releases/latest)** from the Releases page, for
+Minecraft Java 26.3 with Fabric. (The same file is also in this repository: [poolrooms-1.0.0.jar](poolrooms-1.0.0.jar).)
+How to install it is [below](#install).
+
 ## Getting in
 1. Craft a **Strange Drain**: iron bars above and below, nether quartz on each side, an ender pearl in the middle.
 2. Put it at the bottom of water at least 2 blocks deep.
